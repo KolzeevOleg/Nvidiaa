@@ -1,0 +1,56 @@
+{
+  "info": {
+    "version": "0.9.8",
+    "dependency": []
+  },
+  "root": {
+    "type": "Group",
+    "name": "Web 1920 – 16",
+    "elements": [],
+    "guid": "7623e9db-ca13-40a1-ba68-c7a862a6704b",
+    "active": true,
+    "global_draw_bounds": {
+      "x": 10149,
+      "y": -1598,
+      "width": 1920,
+      "height": 1080,
+      "ex": 12069,
+      "ey": -518
+    },
+    "rect_transform": {
+      "fix": {
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null,
+        "width": null,
+        "height": null
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_min": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_max": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "offset_min": {
+        "x": -960,
+        "y": -540
+      },
+      "offset_max": {
+        "x": 960,
+        "y": 540
+      }
+    },
+    "layer": "UI",
+    "parsed_names": [
+      "Web_1920___16"
+    ],
+    "fill_color": "#141414"
+  }
+}

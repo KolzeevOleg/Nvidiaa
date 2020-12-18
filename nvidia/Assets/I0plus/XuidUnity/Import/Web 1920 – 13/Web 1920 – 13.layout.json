@@ -1,0 +1,161 @@
+{
+  "info": {
+    "version": "0.9.8",
+    "dependency": []
+  },
+  "root": {
+    "type": "Group",
+    "name": "Web 1920 – 13",
+    "elements": [
+      {
+        "type": "Image",
+        "name": "2",
+        "guid": "3992484f-35e4-48ed-94f0-f5dab2ecdbf4",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 2690,
+          "y": -2668,
+          "width": 512,
+          "height": 512,
+          "ex": 3202,
+          "ey": -2156
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.4828125,
+            "y": 0.49444444444444446
+          },
+          "anchor_max": {
+            "x": 0.4828125,
+            "y": 0.49444444444444446
+          },
+          "offset_min": {
+            "x": -256,
+            "y": -256
+          },
+          "offset_max": {
+            "x": 256,
+            "y": 256
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "_"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "2+39924"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "1",
+        "guid": "e1e982f3-743c-4447-920b-794338519ccc",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 2638,
+          "y": -2674,
+          "width": 512,
+          "height": 512,
+          "ex": 3150,
+          "ey": -2162
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.4557291666666667,
+            "y": 0.5
+          },
+          "anchor_max": {
+            "x": 0.4557291666666667,
+            "y": 0.5
+          },
+          "offset_min": {
+            "x": -256,
+            "y": -256
+          },
+          "offset_max": {
+            "x": 256,
+            "y": 256
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "_"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "1+e1e98"
+        }
+      }
+    ],
+    "guid": "c2be21cb-80a5-4264-981c-520217f4892d",
+    "active": true,
+    "global_draw_bounds": {
+      "x": 2019,
+      "y": -2958,
+      "width": 1920,
+      "height": 1080,
+      "ex": 3939,
+      "ey": -1878
+    },
+    "rect_transform": {
+      "fix": {
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null,
+        "width": null,
+        "height": null
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_min": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_max": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "offset_min": {
+        "x": -960,
+        "y": -540
+      },
+      "offset_max": {
+        "x": 960,
+        "y": 540
+      }
+    },
+    "layer": "UI",
+    "parsed_names": [
+      "Web_1920___13"
+    ],
+    "fill_color": "#141414"
+  }
+}

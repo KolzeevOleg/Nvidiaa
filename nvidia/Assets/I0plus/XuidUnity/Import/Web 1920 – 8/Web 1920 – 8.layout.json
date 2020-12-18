@@ -1,0 +1,118 @@
+{
+  "info": {
+    "version": "0.9.8",
+    "dependency": []
+  },
+  "root": {
+    "type": "Group",
+    "name": "Web 1920 – 8",
+    "elements": [
+      {
+        "type": "Text",
+        "name": "выход(в разработке)_",
+        "text": {
+          "text": "выход(в разработке)_",
+          "textType": "point",
+          "font": "Prototype",
+          "style": "Regular",
+          "size": 118,
+          "color": "#90c31f",
+          "align": "leftmiddle",
+          "opacity": 100
+        },
+        "guid": "42cb18ab-8643-43fb-b67a-c953fb8a241f",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 4906,
+          "y": 3026,
+          "width": 1167,
+          "height": 157,
+          "ex": 6073,
+          "ey": 3183,
+          "text": {
+            "fontSize": 118
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5372395833333333,
+            "y": 0.5254629629629629
+          },
+          "anchor_max": {
+            "x": 0.5372395833333333,
+            "y": 0.5254629629629629
+          },
+          "offset_min": {
+            "x": -583.5,
+            "y": -78.5
+          },
+          "offset_max": {
+            "x": 583.5,
+            "y": 78.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "____________________"
+        ]
+      }
+    ],
+    "guid": "9c9af333-2353-4e09-ab3c-3c9a83b019ef",
+    "active": true,
+    "global_draw_bounds": {
+      "x": 4458,
+      "y": 2592,
+      "width": 1920,
+      "height": 1080,
+      "ex": 6378,
+      "ey": 3672
+    },
+    "rect_transform": {
+      "fix": {
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null,
+        "width": null,
+        "height": null
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_min": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_max": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "offset_min": {
+        "x": -960,
+        "y": -540
+      },
+      "offset_max": {
+        "x": 960,
+        "y": 540
+      }
+    },
+    "layer": "UI",
+    "parsed_names": [
+      "Web_1920___8"
+    ],
+    "fill_color": "#141414"
+  }
+}

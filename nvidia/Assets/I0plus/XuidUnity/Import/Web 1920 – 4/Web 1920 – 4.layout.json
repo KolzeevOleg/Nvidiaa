@@ -1,0 +1,283 @@
+{
+  "info": {
+    "version": "0.9.8",
+    "dependency": []
+  },
+  "root": {
+    "type": "Group",
+    "name": "Web 1920 – 4",
+    "elements": [
+      {
+        "type": "Text",
+        "name": "Menu",
+        "text": {
+          "text": "Menu",
+          "textType": "point",
+          "font": "Prototype",
+          "style": "Regular",
+          "size": 74,
+          "color": "#141414",
+          "align": "leftmiddle",
+          "opacity": 100
+        },
+        "guid": "8253124c-4340-4e7c-9123-b1d0d3e28aa1",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 8011,
+          "y": 902,
+          "width": 189,
+          "height": 99,
+          "ex": 8200,
+          "ey": 1001,
+          "text": {
+            "fontSize": 74
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.9346354166666666,
+            "y": 0.12268518518518517
+          },
+          "anchor_max": {
+            "x": 0.9346354166666666,
+            "y": 0.12268518518518517
+          },
+          "offset_min": {
+            "x": -94.5,
+            "y": -49.5
+          },
+          "offset_max": {
+            "x": 94.5,
+            "y": 49.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Menu"
+        ]
+      },
+      {
+        "type": "Text",
+        "name": "AR-режим( в разработке)",
+        "text": {
+          "text": "AR-режим( в разработке)",
+          "textType": "point",
+          "font": "Prototype",
+          "style": "Regular",
+          "size": 106,
+          "color": "#92c425",
+          "align": "leftmiddle",
+          "opacity": 100
+        },
+        "guid": "4afb0a83-a19d-46c8-81e3-2741569f47fa",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 6651,
+          "y": 476,
+          "width": 1241,
+          "height": 141,
+          "ex": 7892,
+          "ey": 617,
+          "text": {
+            "fontSize": 106
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5002604166666667,
+            "y": 0.4976851851851852
+          },
+          "anchor_max": {
+            "x": 0.5002604166666667,
+            "y": 0.4976851851851852
+          },
+          "offset_min": {
+            "x": -620.5,
+            "y": -70.5
+          },
+          "offset_max": {
+            "x": 620.5,
+            "y": 70.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "AR-____________________"
+        ]
+      },
+      {
+        "type": "Image",
+        "name": "nvidiaмраиа",
+        "guid": "8b7cda92-a288-4e3e-bb0b-34b7435c1e6d",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 6310.921875,
+          "y": -844.0084228515625,
+          "width": 1928,
+          "height": 1928,
+          "ex": 8238.921875,
+          "ey": 1083.9915771484375
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5020426432291667,
+            "y": 0.8926003915292245
+          },
+          "anchor_max": {
+            "x": 0.5020426432291667,
+            "y": 0.8926003915292245
+          },
+          "offset_min": {
+            "x": -964,
+            "y": -964
+          },
+          "offset_max": {
+            "x": 964,
+            "y": 964
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "nvidia_____"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "nvidiaмраиа+8b7cd"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "nvidia-Recoveredоьпрп",
+        "guid": "d99c515d-c43a-4574-9c0d-17d7f3fc7d11",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 7858,
+          "y": 741,
+          "width": 487,
+          "height": 487,
+          "ex": 8345,
+          "ey": 1228
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.9325520833333334,
+            "y": 0.09212962962962962
+          },
+          "anchor_max": {
+            "x": 0.9325520833333334,
+            "y": 0.09212962962962962
+          },
+          "offset_min": {
+            "x": -243.5,
+            "y": -243.5
+          },
+          "offset_max": {
+            "x": 243.5,
+            "y": 243.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "nvidia-Recovered_____"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "nvidia-Recoveredоьпр+d99c5"
+        }
+      }
+    ],
+    "guid": "0a3a1a20-5fbc-4b40-8ead-b83e8f6bb8e9",
+    "active": true,
+    "global_draw_bounds": {
+      "x": 6311,
+      "y": 4,
+      "width": 1920,
+      "height": 1080,
+      "ex": 8231,
+      "ey": 1084
+    },
+    "rect_transform": {
+      "fix": {
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null,
+        "width": null,
+        "height": null
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_min": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_max": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "offset_min": {
+        "x": -960,
+        "y": -540
+      },
+      "offset_max": {
+        "x": 960,
+        "y": 540
+      }
+    },
+    "layer": "UI",
+    "parsed_names": [
+      "Web_1920___4"
+    ],
+    "fill_color": "#141414"
+  }
+}

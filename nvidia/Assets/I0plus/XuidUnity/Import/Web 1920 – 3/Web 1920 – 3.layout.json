@@ -1,0 +1,552 @@
+{
+  "info": {
+    "version": "0.9.8",
+    "dependency": []
+  },
+  "root": {
+    "type": "Group",
+    "name": "Web 1920 – 3",
+    "elements": [
+      {
+        "type": "Image",
+        "name": "nvidia-jbjopfhk",
+        "guid": "9d1601cd-0a2e-41f1-b344-e728df9a41dc",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5429.98291015625,
+          "y": 133.1278076171875,
+          "width": 639.8818359375,
+          "height": 639.8817749023438,
+          "ex": 6069.86474609375,
+          "ey": 773.0095825195312
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.7461981464063311,
+            "y": 0.5848239784810081
+          },
+          "anchor_max": {
+            "x": 0.7461981464063311,
+            "y": 0.5848239784810081
+          },
+          "offset_min": {
+            "x": -319.94091796875,
+            "y": -319.9408874511719
+          },
+          "offset_max": {
+            "x": 319.94091796875,
+            "y": 319.9408874511719
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "nvidia-jbjopfhk"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "nvidia-jbjopfhk+9d160"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "geforce-rtx-3090-shop-630-d@2x",
+        "guid": "8f023281-1500-45e4-9fa8-9c8e69802c81",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 4678.18212890625,
+          "y": 161.822509765625,
+          "width": 295.986328125,
+          "height": 636.877685546875,
+          "ex": 4974.16845703125,
+          "ey": 798.7001953125
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.26682682561948623,
+            "y": 0.5594576935269939
+          },
+          "anchor_max": {
+            "x": 0.26682682561948623,
+            "y": 0.5594576935269939
+          },
+          "offset_min": {
+            "x": -147.9931640625,
+            "y": -318.4388427734375
+          },
+          "offset_max": {
+            "x": 147.9931640625,
+            "y": 318.4388427734375
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "geforce-rtx-3090-shop-630-d_2x"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "geforce-rtx-3090-sho+8f023"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "nvidia-Recoveredоьпрп",
+        "guid": "ddb7280f-0fe7-4c79-93af-bd03a3c22441",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 4856,
+          "y": -500,
+          "width": 1961,
+          "height": 1961,
+          "ex": 6817,
+          "ey": 1461
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.7911261027503892,
+            "y": 0.5592350746268657
+          },
+          "anchor_max": {
+            "x": 0.7911261027503892,
+            "y": 0.5592350746268657
+          },
+          "offset_min": {
+            "x": -980.5,
+            "y": -980.5
+          },
+          "offset_max": {
+            "x": 980.5,
+            "y": 980.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "nvidia-Recovered_____"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "nvidia-Recoveredоьпр+ddb72"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "nvidia-Recoveredоьпрп",
+        "guid": "53a3c0b7-52e3-4ae3-99ac-be507b9813bb",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 3889,
+          "y": -434,
+          "width": 1961,
+          "height": 1961,
+          "ex": 5850,
+          "ey": 1527
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.2893098079916969,
+            "y": 0.4976679104477612
+          },
+          "anchor_max": {
+            "x": 0.2893098079916969,
+            "y": 0.4976679104477612
+          },
+          "offset_min": {
+            "x": -980.5,
+            "y": -980.5
+          },
+          "offset_max": {
+            "x": 980.5,
+            "y": 980.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "nvidia-Recovered_____"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "nvidia-Recoveredоьпр+53a3c"
+        }
+      },
+      {
+        "type": "Text",
+        "name": "Nvidia GeForce RTX 2080TI",
+        "text": {
+          "text": "Nvidia GeForce RTX 2080TI",
+          "textType": "point",
+          "font": "Prototype",
+          "style": "Regular",
+          "size": 39,
+          "color": "#749a23",
+          "align": "leftmiddle",
+          "opacity": 100
+        },
+        "guid": "2b2524f2-3f92-403a-a222-267ff2e50876",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5538,
+          "y": 817,
+          "width": 463,
+          "height": 52,
+          "ex": 6001,
+          "ey": 869,
+          "text": {
+            "fontSize": 39
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.7563570316554229,
+            "y": 0.2210820895522388
+          },
+          "anchor_max": {
+            "x": 0.7563570316554229,
+            "y": 0.2210820895522388
+          },
+          "offset_min": {
+            "x": -231.5,
+            "y": -26
+          },
+          "offset_max": {
+            "x": 231.5,
+            "y": 26
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Nvidia_GeForce_RTX_2080TI"
+        ]
+      },
+      {
+        "type": "Text",
+        "name": "Nvidia GeForce RTX 3070",
+        "text": {
+          "text": "Nvidia GeForce RTX 3070",
+          "textType": "point",
+          "font": "Prototype",
+          "style": "Regular",
+          "size": 39,
+          "color": "#749a23",
+          "align": "leftmiddle",
+          "opacity": 100
+        },
+        "guid": "d037aee5-c70d-4604-ab2c-f013067de34e",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5060,
+          "y": 134,
+          "width": 432,
+          "height": 52,
+          "ex": 5492,
+          "ey": 186,
+          "text": {
+            "fontSize": 39
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5002594706798131,
+            "y": 0.8582089552238805
+          },
+          "anchor_max": {
+            "x": 0.5002594706798131,
+            "y": 0.8582089552238805
+          },
+          "offset_min": {
+            "x": -216,
+            "y": -26
+          },
+          "offset_max": {
+            "x": 216,
+            "y": 26
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Nvidia_GeForce_RTX_3070"
+        ]
+      },
+      {
+        "type": "Image",
+        "name": "geforce-rtx-3070-shop-600-p@2x",
+        "guid": "721a416a-ab84-4f70-82c9-8368fd71a267",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5124.5478515625,
+          "y": 155.42529296875,
+          "width": 302,
+          "height": 667,
+          "ex": 5426.5478515625,
+          "ey": 822.42529296875
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.500024832154904,
+            "y": 0.5513756595440765
+          },
+          "anchor_max": {
+            "x": 0.500024832154904,
+            "y": 0.5513756595440765
+          },
+          "offset_min": {
+            "x": -151,
+            "y": -333.5
+          },
+          "offset_max": {
+            "x": 151,
+            "y": 333.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "geforce-rtx-3070-shop-600-p_2x"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "geforce-rtx-3070-sho+721a4"
+        }
+      },
+      {
+        "type": "Text",
+        "name": "Nvidia GeForce RTX 3090",
+        "text": {
+          "text": "Nvidia GeForce RTX 3090",
+          "textType": "point",
+          "font": "Prototype",
+          "style": "Regular",
+          "size": 39,
+          "color": "#92c425",
+          "align": "leftmiddle",
+          "opacity": 100
+        },
+        "guid": "37bd893b-6f5f-40d1-b1ad-bc5ce5d84ad5",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 4611,
+          "y": 817,
+          "width": 432,
+          "height": 52,
+          "ex": 5043,
+          "ey": 869,
+          "text": {
+            "fontSize": 39
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.2672548002075765,
+            "y": 0.2210820895522388
+          },
+          "anchor_max": {
+            "x": 0.2672548002075765,
+            "y": 0.2210820895522388
+          },
+          "offset_min": {
+            "x": -216,
+            "y": -26
+          },
+          "offset_max": {
+            "x": 216,
+            "y": 26
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Nvidia_GeForce_RTX_3090"
+        ]
+      },
+      {
+        "type": "Image",
+        "name": "nvidia-Recoveredоьпрп",
+        "guid": "12fa2b3e-8f12-4cf4-8c5b-96ac98b5e0e6",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 4289,
+          "y": -434,
+          "width": 2027,
+          "height": 2027,
+          "ex": 6316,
+          "ey": 1593
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5140114167099118,
+            "y": 0.466884328358209
+          },
+          "anchor_max": {
+            "x": 0.5140114167099118,
+            "y": 0.466884328358209
+          },
+          "offset_min": {
+            "x": -1013.5,
+            "y": -1013.5
+          },
+          "offset_max": {
+            "x": 1013.5,
+            "y": 1013.5
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "nvidia-Recovered_____"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "nvidia-Recoveredоьпр+12fa2"
+        }
+      }
+    ],
+    "guid": "3f3840cd-062a-4827-8808-9029ed6e778e",
+    "active": true,
+    "global_draw_bounds": {
+      "x": 4312,
+      "y": 8,
+      "width": 1927,
+      "height": 1072,
+      "ex": 6239,
+      "ey": 1080
+    },
+    "rect_transform": {
+      "fix": {
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null,
+        "width": null,
+        "height": null
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_min": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_max": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "offset_min": {
+        "x": -963.5,
+        "y": -536
+      },
+      "offset_max": {
+        "x": 963.5,
+        "y": 536
+      }
+    },
+    "layer": "UI",
+    "parsed_names": [
+      "Web_1920___3"
+    ],
+    "fill_color": "#141414"
+  }
+}

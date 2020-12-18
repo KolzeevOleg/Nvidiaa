@@ -1,0 +1,213 @@
+{
+  "info": {
+    "version": "0.9.8",
+    "dependency": []
+  },
+  "root": {
+    "type": "Group",
+    "name": "Web 1920 – 11",
+    "elements": [
+      {
+        "type": "Image",
+        "name": "3",
+        "guid": "f05bed53-adf9-43f8-aea2-dd625a274369",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 4826,
+          "y": -1300,
+          "width": 512,
+          "height": 512,
+          "ex": 5338,
+          "ey": -788
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5635416666666666,
+            "y": 0.48703703703703705
+          },
+          "anchor_max": {
+            "x": 0.5635416666666666,
+            "y": 0.48703703703703705
+          },
+          "offset_min": {
+            "x": -256,
+            "y": -256
+          },
+          "offset_max": {
+            "x": 256,
+            "y": 256
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "_"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "3+f05be"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "2",
+        "guid": "8de05be5-3cd0-4af6-9e6e-83718e60714f",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 4671,
+          "y": -1308,
+          "width": 512,
+          "height": 512,
+          "ex": 5183,
+          "ey": -796
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.4828125,
+            "y": 0.49444444444444446
+          },
+          "anchor_max": {
+            "x": 0.4828125,
+            "y": 0.49444444444444446
+          },
+          "offset_min": {
+            "x": -256,
+            "y": -256
+          },
+          "offset_max": {
+            "x": 256,
+            "y": 256
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "_"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "2+8de05"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "1",
+        "guid": "cb9cae39-592e-495a-abbf-6e19041e8754",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 4619,
+          "y": -1314,
+          "width": 512,
+          "height": 512,
+          "ex": 5131,
+          "ey": -802
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.4557291666666667,
+            "y": 0.5
+          },
+          "anchor_max": {
+            "x": 0.4557291666666667,
+            "y": 0.5
+          },
+          "offset_min": {
+            "x": -256,
+            "y": -256
+          },
+          "offset_max": {
+            "x": 256,
+            "y": 256
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "_"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "1+cb9ca"
+        }
+      }
+    ],
+    "guid": "d1b21c7c-503f-48d0-8b26-b95bf1170e58",
+    "active": true,
+    "global_draw_bounds": {
+      "x": 4000,
+      "y": -1598,
+      "width": 1920,
+      "height": 1080,
+      "ex": 5920,
+      "ey": -518
+    },
+    "rect_transform": {
+      "fix": {
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null,
+        "width": null,
+        "height": null
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_min": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_max": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "offset_min": {
+        "x": -960,
+        "y": -540
+      },
+      "offset_max": {
+        "x": 960,
+        "y": 540
+      }
+    },
+    "layer": "UI",
+    "parsed_names": [
+      "Web_1920___11"
+    ],
+    "fill_color": "#141414"
+  }
+}
